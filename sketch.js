@@ -16,7 +16,7 @@ let cols, rows;
 let hueValue = 200;
 
 function setup() {
-  createCanvas(600, 800);
+  createCanvas(1200, 800);
   colorMode(HSB, 360, 255, 255);
   cols = width / w;
   rows = height / w;
